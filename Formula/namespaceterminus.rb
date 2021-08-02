@@ -1,4 +1,4 @@
-class Terminus < Formula
+class Namespaceterminus < Formula
     desc "Proof-of-concept terminus release dodges naming collisions"
     homepage "https://pantheon.io/terminus"
     license "MIT"
