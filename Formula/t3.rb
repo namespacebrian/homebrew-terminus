@@ -1,4 +1,4 @@
-class Namespaceterminus < Formula
+class T3 < Formula
     desc "Terminus is Pantheon's Command Line Interface (CLI), providing at least equivalent functionality to the Pantheon's browser-based Dashboard and easier scripting."
     homepage "https://pantheon.io/terminus"
     license "MIT"
